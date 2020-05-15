@@ -2,7 +2,7 @@
 
 Letters from the BrainWeb every once in a while.
 
-<img src="https://raw.githubusercontent.com/brain-web/gazette/master/img/BrainWebGazette001.jpg" style="filter: grayscale(0%);"" width=950 />
+<img src="https://raw.githubusercontent.com/brain-web/gazette/master/img/BrainWebGazette001.jpg" width=950 />
 
 The BrainWeb Gazette will invite 2 community members every once in a while to write a Letter to keep us all connected. Aiming at little by little getting to know the entire community, the authors are invited to  write about projects they have not been involved with, to learn about them, quickly catch up with the project leads, and present the project in their Letter. This will bring different perspectives on the projects together, and give us insight about all the interesting things going on across the BrainWeb.
 
