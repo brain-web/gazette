@@ -1,2 +1,0 @@
-# gazette
-The BrainWeb Gazette
