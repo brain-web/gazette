@@ -1,0 +1,45 @@
+body {
+    background: #f8f7f1;
+}
+
+#doc {
+    background: white;
+}
+
+p {
+    color: #777;
+}
+
+p.heading {
+    border-top: thin solid grey;
+    /* fix */
+}
+
+a {
+    color: black;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #333;
+}
+
+h3 {
+    color: #333;
+}
+
+.footer {
+    background: grey;
+    color: white;
+}
+
+.footer a {
+    color: white;
+}
+
+.index {
+    color: rgba(255, 255, 255, 0.8);
+}

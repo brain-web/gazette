@@ -1,0 +1,44 @@
+body {
+    background: #1c1c1c;
+}
+
+#doc {
+    background: #111;
+}
+
+p {
+    color: #aaa;
+}
+
+p.heading {
+    border-top: thin solid grey;
+}
+
+a {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+.footer {
+    background: #333;
+    color: white;
+}
+
+.footer a {
+    color: white;
+}
+
+.index {
+    color: rgba(255, 255, 255, 0.8);
+}
