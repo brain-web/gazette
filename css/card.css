@@ -19,7 +19,7 @@
     border: thin solid #aaa;
 }
 
-.card .project {
+img.project {
     width: calc( 100% + 20px);
     margin-top: -10px;
     margin-left: -10px;
