@@ -1,8 +1,8 @@
+#main {
+    width:100%;
+}
 #doc {
-    position: absolute;
-    top: 0;
-    left: 50%;
-    transform: translate( -50%, 0);
+    width:500px;
 }
 
 p {
@@ -26,9 +26,8 @@ h1 {
     font-weight: 300;
     font-size: 40px;
     text-align: center;
-    width: 500px;
-    position: absolute;
     bottom: 0.5em;
+    margin: 0.5em 0;
 }
 
 h2 {
@@ -70,7 +69,7 @@ img.top {
     font-size: 12px;
     line-height: 20px;
     font-family: sans-serif;
-    height: 11em;
+    height: 14em;
     width: calc( 500px + 4em);
     margin-left: 0;
     margin-right: 0;
@@ -95,21 +94,11 @@ a {
 }
 
 .index {
-    margin-left: 0.5em;
-    margin-top: 0.25em;
     font-family: sans-serif;
     font-weight: 100;
 }
 
 img.cover {
-    position: absolute;
     width: 500px;
-    z-index: -1;
-    filter: saturate(0.5) contrast(1.1);
-}
-
-section.cover {
-    position: relative;
-    width: 500px;
-    height: 500px;
+    /* filter: saturate(0.5) contrast(1.1); */
 }
